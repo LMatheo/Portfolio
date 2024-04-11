@@ -30,5 +30,4 @@ Préparation et conditionnement mental
 
 
 # Portfolio 
- 
- 
+![Business Plan](https://github.com/LMatheo/Portfolio/assets/139975373/9a558b14-698b-45d9-b667-93502ed11734)
